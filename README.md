@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+This is DreamEnding.On the other social website,you can contact me with Chream.
+I'm a sophomore at Shenzhen Technology University.
+I'm interseted in artificial intelligence/bioinformatics/network security.
 <!--
 **DreamEnding/DreamEnding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
